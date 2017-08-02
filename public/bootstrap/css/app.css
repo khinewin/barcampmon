@@ -1,0 +1,51 @@
+#app .panel-login{
+    background: transparent;
+    color: #075157;
+    padding: 10px;
+    margin: 20% auto;
+}
+#app .panel-register{
+    background:transparent;
+    color: #075157;
+    padding: 10px;
+    margin: 20% auto;
+
+}
+#app .dashboard{
+    background:transparent;
+    color: #075157;
+    padding: 10px;
+    margin: 20% auto;
+
+}
+#app .panel-fogotPassword{
+    background:transparent;
+    color: #075157;
+    padding: 10px;
+    margin: 20% auto;
+
+}
+#app .panel-resetPassword{
+    background:transparent;
+    color: #075157;
+    padding: 10px;
+    margin: 20% auto;
+
+}
+#app .btn-login{
+    background: #075157;
+    color: #ffffff;
+}
+
+#registerHeader{
+   font-size: 32px;
+    text-align: center;
+}
+#loginHeader{
+    font-size: 32px;
+    text-align: center;
+}
+#app .btn-register{
+    background: #075157;
+    color: #ffffff;
+}
